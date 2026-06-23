@@ -1,1 +1,8 @@
-
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+opencv-python-headless
+joblib
+ultralytics
